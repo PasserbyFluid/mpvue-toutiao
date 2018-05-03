@@ -22,5 +22,6 @@ npm run build --report
 ![img](https://github.com/cuizhangxiao/mpvue-toutiao/raw/master/static/images/b.png)   
 ![img](https://github.com/cuizhangxiao/mpvue-toutiao/raw/master/static/images/c.png)   
 ![img](https://github.com/cuizhangxiao/mpvue-toutiao/raw/master/static/images/d.png)   
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 
