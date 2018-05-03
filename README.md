@@ -18,7 +18,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 效果预览
-![Alt text](https://github.com/cuizhangxiao/mpvue-toutiao/blob/master/static/images/a.png)    
+![Alt text](https://github.com/cuizhangxiao/mpvue-toutiao/static/images/a.png)    
 
 ![Alt text](https://github.com/cuizhangxiao/mpvue-toutiao/blob/master/static/images/b.png)    
 
